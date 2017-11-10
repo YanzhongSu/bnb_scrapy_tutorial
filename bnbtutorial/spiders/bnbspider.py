@@ -3,7 +3,7 @@ import scrapy
 import json
 from bnbtutorial.items import BnbtutorialItem
 
-QUERY = 'Lucca--Italy'
+QUERY = 'Beijing--China'
 
 # class BnbspiderSpider(scrapy.Spider):
 class BnbSpider(scrapy.Spider):
